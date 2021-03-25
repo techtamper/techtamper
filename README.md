@@ -7,6 +7,9 @@
 **techtamper/techtamper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
+<img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
+
 - 🌱 I’m currently learning all things android, flutter, Web app and open source 
 - 💻 I work using: 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
