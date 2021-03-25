@@ -8,7 +8,7 @@
 
 -->
 
-<img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
+<img align="right" src="https://github.com/techtamper/techtamper/blob/main/coder.gif" width="50%"/>
 
 - 🌱 I’m currently learning all things android, flutter, Web app and open source 
 - 💻 I work using: 
